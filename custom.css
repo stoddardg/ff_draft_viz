@@ -1,0 +1,67 @@
+@import url(http://fonts.googleapis.com/css?family=Lato|Source+Code+Pro|Montserrat:400,700);
+ 
+#notebook-container {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+ 
+.rendered_html h1 { font-size: 4rem; }
+.rendered_html h2 { font-size: 3rem; }
+.rendered_html h3 { font-size: 2.5rem; }
+.rendered_html h4 { font-size: 2rem; }
+.rendered_html h5 { font-size: 1.5rem; }
+.rendered_html h6 { font-size: 1.5rem; }
+ 
+.rendered_html h1,
+.rendered_html h2,
+.rendered_html h3,
+.rendered_html h4,
+.rendered_html h5,
+.rendered_html h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    line-height: 1.5em;
+    color: rgb(221, 153, 51);
+}
+ 
+h1 { font-size: 4.5rem; }
+h2 { font-size: 4rem; }
+h3 { font-size: 3.5rem; }
+h4 { font-size: 3rem; }
+h5 { font-size: 2.5rem; }
+h6 { font-size: 2rem; }
+ 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    color: #e6ae48;
+    line-height: 150px;
+}
+ 
+p {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.25em;
+    line-height: 30px;
+    font-weight: 400;
+    color: #8d8d8d;
+}
+ 
+code {
+    font-family: 'Source Code Pro', sans-serif;
+    font-size: 1em;
+}
+ 
+pre {
+    font-family: 'Source Code Pro', sans-serif;
+    font-size: 1em;
+}
+ 
+div.input_area {
+    border: none;
+    background: whitesmoke;
+}
+
+.container {
+    width:100%;
+}
+
+
